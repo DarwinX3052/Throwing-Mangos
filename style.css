@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#bfd255+0,8eb92a+50,72aa00+51,9ecb2d+100;Green+Gloss */
+background: #bfd255; /* Old browsers */
+background: -moz-linear-gradient(top,  #3e470a 0%, #8eb92a 50%, #474b40 51%, #597c02 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #a0a583 0%,#adf30a 50%,#1b240a 51%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #55d27f 0%,#058b32 50%,#b0f820 51%,#044614 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bfd255', endColorstr='#9ecb2d',GradientType=0 ); /* IE6-9 */
+
+  }
+  canvas {
+    display: block;
+    padding-left: 30px;
+    padding-top: 20px;
+  }
